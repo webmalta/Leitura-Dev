@@ -31,7 +31,7 @@
 ### Cursos
 
 - [Udemy](https://www.udemy.com)
-- [Envato Tuts+ Code](http://code.tutsplus.com)
+- [DevMedia](https://www.devmedia.com.br/cursos/)
 
 ### Comunidade
 
