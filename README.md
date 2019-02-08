@@ -22,6 +22,7 @@
 - [David Baron](http://dbaron.org/log/)
 - [Mathias Bynens](https://mathiasbynens.be/notes)
 - [The CSS Ninja](http://www.thecssninja.com/)
+- [Tutsplus](https://code.tutsplus.com/pt/tutorials)
 
 ### Nacionais
 
